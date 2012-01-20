@@ -1,7 +1,7 @@
 === Stop Censorship Ribbon ===
 Contributors: kovshenin, mindshare
 Donate link: http://mind.sh/are/donate/
-Tags: sopa, censorship
+Tags: sopa, censorship, pipa
 Requires at Least: 2.6.0
 Tested Up To: 3.3.1
 Stable tag: 1.0
