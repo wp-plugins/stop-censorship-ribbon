@@ -22,5 +22,8 @@ A black ribbon with the words "Stop Censorship" will be put on in the top right 
 
 == Changelog ==
 
+= 1.0.1 =
+* minor CSS change
+
 = 1.0 =
 * This release is simply a fork of kovshenin's plugin which makes use of a different graphic.
