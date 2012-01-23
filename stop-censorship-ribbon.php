@@ -10,10 +10,8 @@ Author URI: http://mind.sh/are/
 */
 
 function render_stop_censorship_ribbon() {
-	$ribbon_url = plugins_url( 'stop-censorship-ribbon.png', __FILE__ );
+	$ribbon_url = plugins_url('stop-censorship-ribbon.png', __FILE__ );
 	echo "<a target='_blank' class='stop-censorship-ribbon' href='http://americancensorship.org/'><img src='{$ribbon_url}' alt='Stop censorship' style='position: fixed; top: 0; right: 0; z-index: 100000; cursor: pointer; border:none;' /></a>";
 }
 
-if(!is_user_logged_in()) {
-	add_action( 'wp_footer', 'render_stop_censorship_ribbon' );
-}
+add_action('wp_footer', 'render_stop_censorship_ribbon');
