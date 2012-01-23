@@ -11,7 +11,11 @@ Author URI: http://mind.sh/are/
 
 function render_stop_censorship_ribbon() {
 	$ribbon_url = plugins_url('stop-censorship-ribbon.png', __FILE__ );
-	$padding_top = is_admin_bar_showing() ? 28 : 0;
+	if(function_exists('is_admin_bar_showing')) {
+		$padding_top = is_admin_bar_showing() ? 28 : 0;
+	} else {
+		$padding_top = 0;
+	}
 	echo "<a target='_blank' class='stop-censorship-ribbon' href='http://americancensorship.org/'><img src='{$ribbon_url}' alt='Stop censorship' style='position: fixed; top: ".$padding_top ."px; right: 0; z-index: 100000; cursor: pointer; border:none;' /></a>";
 }
 add_action('wp_footer', 'render_stop_censorship_ribbon');
