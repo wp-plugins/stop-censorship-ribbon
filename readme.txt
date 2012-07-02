@@ -9,7 +9,7 @@ Stable tag: trunk
 Help stop American Consorship by putting a ribbon that says Stop Censorship on your WordPress site or network (just like the one on wordpress.org).
 
 == Description ==
-Updated for CISPA! The ribbon will now link to [EFF's CISPA info site](http://cyberspying.eff.org/).
+Updated link to go to the [Declaration of Internet Freedom](http://act.freepress.net/sign/internetdeclaration/).
 
 A black ribbon with the words "Stop Censorship" will be put on in the top right corner of your website, linking to the [American Censorship](http://americancensorship.org/) website. Look at the screenshots to see how the ribbon looks. Check out the [Help Stop SOPA/PIPA](http://wordpress.org/news/2012/01/help-stop-sopa-pipa/) entry in the WordPress news too. Thank you for showing your support!
 
@@ -23,6 +23,9 @@ A black ribbon with the words "Stop Censorship" will be put on in the top right 
 1. Here's how the ribbon will appear on your website. Will link to the americancensorship.org site.
 
 == Changelog ==
+= 1.0.5  =
+* Updated for Declaration of Internet Freedom.
+
 = 1.0.4 =
 * Updated for CISPA.
 
