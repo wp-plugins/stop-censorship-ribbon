@@ -1,17 +1,17 @@
 === Stop Censorship Ribbon ===
 Contributors: mindshare
 Donate link: http://mind.sh/are/donate/
-Tags: sopa, censorship, pipa
+Tags: sopa, censorship, pipa, cispa, eff, internet-freedom, freedom, rights
 Requires at Least: 2.6.0
-Tested Up To: 3.3.1
+Tested Up To: 3.5.1
 Stable tag: trunk
 
-Help stop American Consorship by putting a ribbon that says Stop Censorship on your WordPress site or network (just like the one on wordpress.org).
+Help stop CISPA and internet censorship by putting a ribbon that says Stop Censorship on your WordPress site or network.
 
 == Description ==
-Updated link to go to the [Declaration of Internet Freedom](http://act.freepress.net/sign/internetdeclaration/).
+CONGRESS VOTES THIS THURSDAY (4/18/13) - PLEASE UPDATE AND SHOW YOUR SUPPORT! Links to the [CISPA is Back] (https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048) Electronic Frontier Foundation information page.
 
-A black ribbon with the words "Stop Censorship" will be put on in the top right corner of your website, linking to the [American Censorship](http://americancensorship.org/) website. Look at the screenshots to see how the ribbon looks. Check out the [Help Stop SOPA/PIPA](http://wordpress.org/news/2012/01/help-stop-sopa-pipa/) entry in the WordPress news too. Thank you for showing your support!
+A black ribbon with the words "Stop Censorship" will be put on in the top right corner of your website. Look at the screenshots to see how the ribbon looks. Thank you for showing your support!
 
 == Installation ==
 
@@ -23,6 +23,9 @@ A black ribbon with the words "Stop Censorship" will be put on in the top right 
 1. Here's how the ribbon will appear on your website. Will link to the americancensorship.org site.
 
 == Changelog ==
+= 1.0.7  =
+* changed link to Stop CISPA page
+
 = 1.0.5  =
 * Updated for Declaration of Internet Freedom.
 
