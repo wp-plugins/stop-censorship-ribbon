@@ -6,11 +6,9 @@ Requires at Least: 2.6.0
 Tested Up To: 3.5.1
 Stable tag: trunk
 
-Help stop CISPA and internet censorship by putting a ribbon that says Stop Censorship on your WordPress site or network.
+Help stop CISPA and internet censorship by putting a ribbon that says Stop Censorship on your WordPress site or network. the ribbon links to http://www.cispaisback.org/
 
 == Description ==
-CONGRESS VOTES THIS THURSDAY (4/18/13) - PLEASE UPDATE AND SHOW YOUR SUPPORT! Links to the [CISPA is Back] (https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048) Electronic Frontier Foundation information page.
-
 A black ribbon with the words "Stop Censorship" will be put on in the top right corner of your website. Look at the screenshots to see how the ribbon looks. Thank you for showing your support!
 
 == Installation ==
@@ -23,6 +21,9 @@ A black ribbon with the words "Stop Censorship" will be put on in the top right 
 1. Here's how the ribbon will appear on your website. Will link to the americancensorship.org site.
 
 == Changelog ==
+= 1.0.8  =
+* changed link to CISPA is back page (http://www.cispaisback.org/)
+
 = 1.0.7  =
 * changed link to Stop CISPA page
 

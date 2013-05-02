@@ -9,9 +9,18 @@ Author: Mindshare Studios
 Author URI: http://mind.sh/are/
 */
 
+
+/*
+You can use CSS in your site stylesheet to control the z-index or modify the exact positioning:
+
+.stop-censorship-ribbon img {
+	z-index: 10 !important;
+}
+*/
+
 function render_stop_censorship_ribbon() {
 	$ribbon_url = plugins_url('stop-censorship-ribbon.png', __FILE__);
-	$action_url = "https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048";
+	$action_url = "http://www.cispaisback.org/";
 	if(function_exists('is_admin_bar_showing')) {
 		$padding_top = is_admin_bar_showing() ? 28 : 0;
 	} else {
