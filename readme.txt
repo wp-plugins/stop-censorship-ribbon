@@ -3,7 +3,7 @@ Contributors: mindshare
 Donate link: http://mind.sh/are/donate/
 Tags: sopa, censorship, pipa, cispa, eff, internet-freedom, freedom, rights
 Requires at Least: 2.6.0
-Tested Up To: 3.5.1
+Tested Up To: 4.3
 Stable tag: trunk
 
 Help stop CISPA and internet censorship by putting a ribbon that says Stop Censorship on your WordPress site or network. the ribbon links to http://www.cispaisback.org/
